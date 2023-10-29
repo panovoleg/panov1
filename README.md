@@ -1,2 +1,2 @@
 # panov1
-https://github.com/panovoleg/panov1
+https://panovoleg.githud.io/panov1/
